@@ -627,8 +627,8 @@ class EvaluatorTest extends TestCase
     /**
      * @param bool  $data
      * @param array $expectedValues
-     * @dataProvider providerEvaluateLiteral
      */
+    #[DataProvider("providerEvaluateLiteral")]
     public function testEvaluate_BooleanScalarLiteralInList_ReturnsMatchingResultInList(
         bool $data,
         array $expectedValues
