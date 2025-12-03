@@ -18,19 +18,19 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/Oryss/php-unilex"
+      "url": "https://github.com/linksderisar/php-unilex"
     },
     {
       "type": "vcs",
-      "url": "https://github.com/Oryss/php-json-data"
+      "url": "https://github.com/linksderisar/php-json-data"
     },
     {
       "type": "vcs",
-      "url": "https://github.com/Oryss/php-int-rangesets"
+      "url": "https://github.com/linksderisar/php-int-rangesets"
     },
     {
       "type": "vcs",
-      "url": "https://github.com/Oryss/php-ucd"
+      "url": "https://github.com/linksderisar/php-ucd"
     }
   ],
   "require": {
